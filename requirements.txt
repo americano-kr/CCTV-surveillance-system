@@ -1,0 +1,21 @@
+# ============================================================
+# REQUIREMENTS - CCTV Surveillance System
+# ============================================================
+# Install dengan: pip install -r requirements.txt
+
+# Computer Vision & AI
+ultralytics>=8.2.0          # YOLOv8 + ByteTrack built-in
+opencv-python>=4.9.0        # OpenCV untuk pemrosesan video
+numpy>=1.26.0               # Operasi array numerik
+
+# Data & Logging
+pandas>=2.2.0               # Manipulasi data log CSV
+shapely>=2.0.4              # Operasi geometri polygon (ROI)
+
+# Web UI
+streamlit>=1.35.0           # Dashboard web interaktif
+streamlit-drawable-canvas>=0.9.3  # Canvas gambar ROI
+Pillow>=10.3.0              # Manipulasi gambar untuk Streamlit
+
+# Utilitas
+python-dateutil>=2.9.0      # Parsing tanggal/waktu
