@@ -1,0 +1,22 @@
+{
+  "points": [
+    [
+      300,
+      300
+    ],
+    [
+      960,
+      250
+    ],
+    [
+      960,
+      540
+    ],
+    [
+      300,
+      540
+    ]
+  ],
+  "description": "Restricted Area / ROI",
+  "total_points": 4
+}
